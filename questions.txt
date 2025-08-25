@@ -1,0 +1,106 @@
+ {
+   "question": "What must be displayed on the name board at the society’s main entrance?"
+}
+ {"question": "What are the different classes of members defined in the bye-laws?"}
+ {"questions": "What are the different classes of members defined in the bye-laws?"}
+
+ What responsibilities do members have in maintaining their flats?
+ What rights does an active member have regarding inspection of society documents?
+
+ Can a minor become a member? If yes, under what conditions?
+
+ I. General / Preliminary
+What is the classification of a Tenant Co‑Partnership Housing Society under these bye-laws?
+
+What is the procedure for changing the registered address of the society?
+
+What must be displayed on the name board at the society’s main entrance?
+
+II. Membership
+What are the different classes of members defined in the bye-laws?
+
+Who is eligible to become an Active Member?
+
+Can a minor become a member? If yes, under what conditions?
+
+What is the procedure for becoming an Associate Member?
+
+What documents must be submitted along with a membership application by a flat purchaser?
+
+What is the definition of a Nominal Member?
+
+What are the restrictions on an Associate Member’s rights?
+
+III. Rights and Liabilities
+What rights does an active member have regarding inspection of society documents?
+
+Can a member use their flat for a different purpose than mentioned in the allotment letter?
+
+Under what circumstances can a member be expelled from the society?
+
+What responsibilities do members have in maintaining their flats?
+
+Is sub-letting a flat allowed without informing the society?
+
+What is the maximum penalty that can be imposed on a member for breach of bye-laws in any one financial year?
+
+IV. Charges and Payments
+List the types of charges that a society can levy on its members.
+
+How is the sinking fund calculated?
+
+At what rate can the society charge interest on delayed payment of dues?
+
+What is the process if a member defaults on payment of maintenance charges?
+
+V. Funds and Accounts
+How is the Reserve Fund of the society constituted?
+
+Under what circumstances can the Reserve Fund be used?
+
+What is the minimum contribution rate for the Repairs and Maintenance Fund?
+
+How should the society invest its surplus funds as per the bye-laws?
+
+What are the registers and account books that every society must maintain?
+
+VI. Meetings & Management
+When must the first General Body Meeting be held after registration?
+
+What is the quorum for a General Body Meeting?
+
+List any four matters that can be discussed in an Annual General Body Meeting.
+
+How often must the Managing Committee meet?
+
+What is the procedure for filling a casual vacancy in the Managing Committee?
+
+VII. Redevelopment & Repairs
+What steps must the committee take before undertaking redevelopment?
+
+What is the maximum repair expenditure limit that the committee can approve without General Body sanction for societies with more than 51 members?
+
+Which repairs are the society’s responsibility and which are the member’s?
+
+What precautions must be taken regarding child labour in society premises?
+
+Can a society allow installation of solar panels on its terrace by members?
+
+VIII. Transfers & Nomination
+What documents are required for transferring shares and flat ownership to a new member?
+
+In case of a member’s death, how is the flat transferred if there is a valid nomination?
+
+What is the procedure if a member dies without making a nomination?
+
+Is the society’s No Objection Certificate mandatory for property transfer?
+
+Can members exchange flats among themselves? If yes, what is the process?
+
+IX. Dispute Resolution
+Which types of disputes fall under the jurisdiction of the Registrar?
+
+Which disputes go to the Co‑operative Court?
+
+When should a member approach the Civil Court in society matters?
+
